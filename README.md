@@ -8,7 +8,6 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 **This list may for the basis for a static review**, in which case serious contributors, so those who contribute to the list and to the preamle paragraphs for each section, will be ivited as collaborators.
 
-
 ## genetic architecture
 
 **Sumstats based:**
@@ -130,7 +129,6 @@ How can you add your tool? via a pull request, if you dont know what that is, re
   
 - [HLA-TAPAS](https://github.com/immunogenomics/HLA-TAPAS/tree/master) HLA-TAPAS (HLA-Typing At Protein for Association Studies) is an HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc).
 
-
 ## gene-level analysis (TWAS)
 
 - [FUSION](https://github.com/gusevlab/fusion_twas) FUSION is a suite of tools for performing transcriptome-wide and regulome-wide association studies (TWAS and RWAS).
@@ -138,7 +136,8 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [FOCUS](https://github.com/mancusolab/ma-focus) FOCUS (Fine-mapping Of CaUsal gene Sets) is software to fine-map transcriptome-wide association study statistics at genomic risk regions
 
 - [cTWAS](https://github.com/xinhe-lab/ctwas) Causal-TWAS (cTWAS) jointly models genetically regulated expression and the direct effects of genetic variants on the phenotype
-
+  
+- [TCSC](https://github.com/TiffanyAmariuta/TCSC?tab=readme-ov-file#dependencies) TCSC (Tissue co-regulation score regression) is a tool to identify causal tissues in diseases and complex traits using TWAS and GWAS summary statistics computed from FUSION.
 
 ## Simulation
 
@@ -206,6 +205,7 @@ GWAS Catalog data is currently mapped to Genome Assembly GRCh38.p14 and dbSNP Bu
 - [S4 programs](https://github.com/jpt34/S4_programs) S4 programs to calculate PRSs and evaluate them.
 
 ## Mendelian randomization result repositories 
+
 - [Multi-ancestry Proteome-Phenome MR atlas](https://broad.io/protein_mr_atlas) Multi-ancestry atlas of protein-phenotype associations in European, African, and East Asian ancestries using MR and colocalization.
 
 - [Proteome-phenome atlas](https://proteome-phenome-atlas.com/) Atlas of protein-phenotype associations in the UK Biobank (2024).
